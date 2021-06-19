@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ricardo\\Documents\\Repositorios\\DIO\\GFT .Net\\series\\DIO.series\\DIO.series.csproj",
+      "projectUniqueName": "C:\\Users\\Ricardo\\Documents\\Repositorios\\DIO\\GFT .Net\\DIO.series\\DIO.series.csproj",
       "projectName": "DIO.series",
-      "projectPath": "C:\\Users\\Ricardo\\Documents\\Repositorios\\DIO\\GFT .Net\\series\\DIO.series\\DIO.series.csproj",
+      "projectPath": "C:\\Users\\Ricardo\\Documents\\Repositorios\\DIO\\GFT .Net\\DIO.series\\DIO.series.csproj",
       "packagesPath": "C:\\Users\\Ricardo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ricardo\\Documents\\Repositorios\\DIO\\GFT .Net\\series\\DIO.series\\obj\\",
+      "outputPath": "C:\\Users\\Ricardo\\Documents\\Repositorios\\DIO\\GFT .Net\\DIO.series\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
